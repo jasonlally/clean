@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This site is slightly customized based on a [jekyll theme](https://github.com/knaman2609/clean) created by [@knaman2609](https://github.com/knaman2609).
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+The code for this [site can be found here](https://github.com/jasonlally/matts-birthday). It was created to celebrate my friend Matt's birthday.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+You can learn more about building jekyll blogs at [https://jekyllrb.com](https://jekyllrb.com/)
