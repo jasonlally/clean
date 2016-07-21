@@ -14,7 +14,7 @@ You should feel free to do whatever you want with your corner of the web. But I 
 
 If you do nothing with it--but I hope you do--well then it's still a fancy digital birthday card made with love.
 
-I hope your next year is filled with friends, love and opportunities.
+I hope your next year is filled with friends, love and opportunity.
 
 <i class="fa fa-heart" aria-hidden="true"></i>
 
